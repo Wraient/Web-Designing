@@ -1,0 +1,38 @@
+.container{
+    border: 2px solid black;
+    width: 1500px;
+    padding-top: 20px;
+    padding-left: 36px;
+    padding-bottom: 30px;
+    margin: 36px auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+    background-color: #dac6c6;
+/*     border: 1px solid black; */
+    border-radius: 5px;
+    padding: 4px 4px 4px 4px;
+}
+a:visited{
+    background-color: #e6bbbb;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: #bbbbd3;
+}
+#contactUs{
+    width: 40px;
+    padding: 5px 730px;
+}
+.btn{
+    cursor: pointer;
+    padding: 4px 4px 4px 4px;
+    border:none;
+    background-color: rgb(199, 101, 101);
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: #7d7777
+
+}

@@ -1,0 +1,39 @@
+body{
+    font-family: "Ubuntu";
+    background-color:#8300f8
+}
+h2{
+    font-size: 40px;
+}
+.divisions{
+    background-color:#d69fe8;
+    width: 1500px;
+    text-align: center;
+    border: 5px solid #3f2f75;
+    margin: 10px auto;
+}
+.content{
+    font-size: 20px;
+}
+.float{
+    width: 1500px;
+    margin: 10px auto;
+}
+.f1{
+    float: left;
+    margin: 10px auto;
+    width:49%;
+    margin-right: 0px;
+}
+.f2{
+    float:right;
+    margin: 10px auto;
+    width:49%;
+    margin-left: 0px;
+}
+.f3{
+    clear:both;
+}
+.f3{
+    clear:both;
+}

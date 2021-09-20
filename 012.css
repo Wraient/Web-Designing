@@ -1,0 +1,15 @@
+#let1{
+    background-image: url(https://gcdn.pbrd.co/images/DPk0e7xcIbCI.png?o=1);
+    background-position: center left;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 200px;
+    width: 800px;
+    color: black;
+    line-height: 85px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 5px solid black;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+}

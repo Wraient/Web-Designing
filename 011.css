@@ -1,0 +1,19 @@
+.italic{
+    line-height: 2em;
+    font-style: italic;
+    border: 5px solid black;
+}
+.lato{
+    line-height: 5em;
+    font-family: lato;
+    border: 5px solid black;
+}
+.bold{
+    line-height: 5em;
+    font-weight: bold;
+    border: black solid 5px;
+}
+custom{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}

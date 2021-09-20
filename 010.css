@@ -1,0 +1,20 @@
+.redBG{
+    background-color: red;
+    border: 2px solid white;
+}
+.White{
+    background-color: white
+}
+
+#rtext{
+    color: red;
+}
+
+#wtext{
+    color: white;
+}
+
+body{
+    color: rgb(61, 74, 131);
+    background-color: pink
+}
